@@ -1,0 +1,14 @@
+- Max Packet String Length as a Global Varible
+- Node Class
+	- Cost
+	- Name - IP/Port Number
+	- Adjaceny Hash of Nodes => Cost
+	- Time between rounds
+- Packet
+	- Message Type
+	- Source
+	- Destination
+	- Data Length
+	- Message
+- Sockets to send and recieve messages between Nodes
+- Overarching Graph Class?
